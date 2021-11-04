@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/70804097/139569847-f8a57498-96ce-4ac9-a1da-8105d989996a.png" width="172" />
-  <img src="https://habrastorage.org/webt/4_/kj/yv/4_kjyvufnzooxsyglrjgfnwikki.png" width="700" /> 
+  <img src="https://habrastorage.org/webt/4_/kj/yv/4_kjyvufnzooxsyglrjgfnwikki.png" width="500" /> 
 </p>
 
 ### Мобильный финансовый наставник"
